@@ -6783,7 +6783,7 @@
         "type": "debug",
         "z": "df01ad0d43f0b640",
         "name": "debug 81",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
